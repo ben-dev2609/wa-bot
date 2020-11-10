@@ -4,7 +4,7 @@
 <img src="https://avatars2.githubusercontent.com/u/70950474?s=400&u=6c56f74017c9eed3cc75b29367c06be0c3839bda&v=4" width="128" height="128"/>
 </p>
 <p align="center">
-<a href="#"><img title="Whatsapp-Termux-Bot" src="https://img.shields.io/badge/Whatsapp Termux Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+<a href="#"><img title="Whatsapp-Termux-Bot" src="https://img.shields.io/badge/Whatsapp Bot-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
 <a href="https://github.com/ben-dev2609"><img title="Author" src="https://img.shields.io/badge/Author-Ebenezer-red.svg?style=for-the-badge&logo=github"></a>
